@@ -28,14 +28,8 @@
 21. Command Console Steering
 Description: A text box appears in the center and stays focused; type "left" or "right" and press Enter to steer.
 
-
-
 27. Split Portal Ring
 Description: Four rotating mini-portals around the center remap where you emerge.
-
-
-
-
 
 37. Tax Auditor
 Description: Every 20 seconds, a prompt asks a math question; wrong answer deducts score. it pauses the game and has a five second timer.
