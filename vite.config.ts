@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/feature-creep-game/",
+  base: "/",
   server: {
     port: 5173,
   },
